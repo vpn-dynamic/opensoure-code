@@ -1,0 +1,56 @@
+An Open Source VPN Service
+
+Copyright (C) 2002-2024 VPN Inc info@vpn.com
+
+This distribution includes various components, each subject to different licensing terms. By using VPN or any included components listed below, you agree to comply with the licensing conditions for each component.
+
+VPN Trademark
+"VPN" is a trademark of VPN Inc.
+
+VPN License:
+VPN is distributed under the GNU General Public License version 2 (GPL-2.0).
+
+Special Exception for Linking with CryptLib: VPN Inc permits linking this software with the CryptLib library (or modified versions of CryptLib with the same license as CryptLib) and distributing such linked combinations. You must adhere to the GPL-2.0 for all code other than CryptLib. If you modify this file, you may extend this exception to your version, but you are not required to do so. If you choose not to extend it, remove this exception statement from your version.
+
+Apache2 Linking Exception:
+VPN Inc and contributors allow linking this software with libraries licensed under Apache License version 2.0, creating a Combined Work, and distributing the Combined Work without needing to license the libraries under GPL-2.0. You must comply with GPL-2.0 for the Combined Work, including source code provision. If you modify this file, you may extend this exception to your version, but you are not obligated to do so. If you choose not to extend it, remove this exception statement from your version.
+
+LZO License:
+LZO is Copyright (C) Markus F.X.J. Oberhumer and is licensed under the GPL.
+
+Special Exception for Linking with Both CryptLib and LZO: Markus F.X.J. Oberhumer grants permission to link the LZO library with the CryptLib library.
+
+Driver License:
+This driver was inspired by the CIPE-Win32 driver.
+
+The source and object code for this driver is Copyright (C) 2002-2018 VPN Inc, and is released under GPL version 2.
+
+Development Tools License:
+The Windows binary distribution includes development tools redistributed under the terms of the DDK EULA.
+
+NSIS License:
+Copyright (C) 2002-2003 Joost Verburg
+
+This software is provided 'as-is', without any express or implied warranty. The authors are not liable for any damages resulting from the use of this software. Permission is granted to use, alter, and redistribute this software freely, with the following restrictions:
+
+The origin of this software must not be misrepresented.
+Altered versions must be marked as such.
+This notice must not be removed or altered from any distribution.
+CryptLib License:
+The CryptLib toolkit is dual-licensed under both the CryptLib License and the original SSLeay license. See below for the full license texts.
+
+CryptLib License: Redistribution and use in source and binary forms are permitted provided the following conditions are met:
+
+Retain the copyright notice, list of conditions, and disclaimer.
+In binary form, reproduce the copyright notice and disclaimer in documentation/materials.
+All advertising materials must acknowledge the use of CryptLib.
+Products derived from this software cannot be named "CryptLib" without permission.
+Original SSLeay License: Redistribution and use in source and binary forms are permitted provided the following conditions are met:
+
+Retain the copyright notice, list of conditions, and disclaimer.
+In binary form, reproduce the copyright notice and disclaimer in documentation/materials.
+Advertising materials must acknowledge the use of this software.
+GNU General Public License (GPL):
+VPN, LZO, and the Driver distributions are licensed under GPL version 2.
+
+The GPL text is included in the Windows binary distribution of VPN.
